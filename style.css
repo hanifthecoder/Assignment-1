@@ -1,0 +1,38 @@
+
+
+.font-inter- {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+}
+
+.navbar{
+  display: flex; 
+ justify-content: space-around;
+  align-items: center;
+}
+
+.list{
+  display: flex;
+  list-style: none;
+  color:#000000 ;
+  justify-content: space-evenly;
+
+}
+
+#button{
+
+  background-color: #30B868;
+  border: none;
+  border: radius 5px; ;
+  font-size: 16;
+  padding: 12.5px 16px;
+}
+#button #buton1{
+  color:  #ffffff;
+  background-color:#30B868 ;
+  border: none;
+} 
+#logo{
+  width: 139;
+  justify-content: space-around;
+}
